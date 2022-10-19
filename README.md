@@ -1,5 +1,5 @@
 
-# SWE573 Software Development Practice
+# SWE577 Directed Studies I
 
 ## Objective
 This repostory has been made for [SWE577](https://www.cmpe.boun.edu.tr/courses/swe577) course instructed by [Professor Suzan Uskudarlı](https://www.cmpe.boun.edu.tr/tr/people/suzan.uskudarli).
