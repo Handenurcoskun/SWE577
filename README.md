@@ -9,7 +9,7 @@ I am a master student at [Software engineering program](https://www.cmpe.boun.ed
 
 New tasks and changes to the documentation is reported and logged via the GitHub issues management system with the relevant tag.
 
-* [Weekly Reports](https://github.com/Handenurcoskun/SWE577/wiki/Weekly-Reports) represents weekly efforts to towards completing the project
+* [Weekly Reports](https://github.com/Handenurcoskun/SWE577/wiki/Weekly-Reports) represents weekly efforts to towards completing the research paper.
 
 
 ## 🔗 Links
